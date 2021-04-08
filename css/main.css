@@ -1,0 +1,24 @@
+nav {
+  font-size: 25px;
+  color: rgb(255, 255, 255);
+  background: #147a9b;
+  padding: 5px;
+  text-align: center;
+  margin: 0 auto;
+  width: 120%;
+}
+h1 {
+  font-size: 22px;
+  text-align: center;
+  padding: 23px;
+}
+p {
+  background-image: image-set(
+    src= "./images/photo-1559825481-12a05cc00344.jpd"
+  );
+  font-size: 20px;
+  padding: 25px;
+}
+image {
+  width: 100%;
+}
