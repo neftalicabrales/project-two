@@ -1,25 +1,66 @@
 nav {
   font-size: 25px;
   color: rgb(255, 255, 255);
-  background:black;
+  background: black;
   padding: 5px;
   text-align: center;
   margin: 0;
   width: auto;
 }
 h1 {
-  font-family: "Playfair Display", serif
+  font-family: "Playfair Display", serif;
   font-size: 22px;
   text-align: center;
   padding: 25px;
   color: rgb(255, 255, 255);
-
 }
 p {
   font-family: "Playfair Display", serif;
   font-size: 20px;
   color: rgb(255, 255, 255);
-  }
+}
 
-  body {
-    background-image:url(https://images.unsplash.com/photo-1545156521-77bd85671d30?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80) ;
+body {
+  background-image: url(https://images.unsplash.com/photo-1545156521-77bd85671d30?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80);
+}
+dl.faq button {
+  margin: 0;
+  padding: 0;
+  margin-top: 1em;
+  font-weight: bold;
+  font-size: 110%;
+  border: white;
+  background-color: white;
+  padding-left: 0.125em;
+}
+
+dl dd {
+  margin: 0;
+  padding: 0;
+  margin-left: 1.5em;
+}
+
+dl.faq .desc {
+  margin: 0;
+  padding: 0.5em;
+  font-size: 110%;
+  display: none;
+  background-color: #fffedb;
+}
+
+dl.faq button:hover,
+dl.faq button:focus {
+  background-color: #eee;
+}
+
+dl.faq button:focus {
+  border-color: rgb(255, 255, 255);
+}
+
+dl.faq button:hover {
+  text-decoration: underline;
+}
+
+dl.faq button:active {
+  background-color: #bbb;
+}
