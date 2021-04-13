@@ -23,24 +23,3 @@ p {
 body {
   background-image: url(https://images.unsplash.com/photo-1545156521-77bd85671d30?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80);
 }
-.accordion {
-  background-color: #147a9b;
-  color: white;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  text-align: left;
-  border: none;
-  outline: none;
-  transition: 0.4s;
-}
-.panel {
-  padding: 0 18px;
-  background-color: transparent;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-}
-.title {
-  position: center;
-}

@@ -1,0 +1,58 @@
+nav {
+  background-color: black;
+  font-size: 25px;
+  color: rgb(255, 255, 255);
+  padding: 5px;
+  text-align: center;
+  margin: 0;
+  width: auto;
+}
+body {
+  background-image: url(https://images.unsplash.com/photo-1589007716619-42656585dd85?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+  background-size: cover;
+}
+h1 {
+  color: black;
+  background-color: white;
+  font-size: 50px;
+  text-align: center;
+  font-family: "Playfair Display", serif;
+}
+h2 {
+  color: white;
+  background-color: transparent;
+  font-size: 50px;
+  text-align: center;
+  font-family: "Playfair Display", serif;
+}
+.accordion {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: black;
+  outline: black;
+  transition: 0.4s;
+}
+.panel {
+  padding: 0 18px;
+  background-color: black;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  color: white;
+}
+.title {
+  position: center;
+}
+p {
+  color: white;
+  padding: 0 5px;
+  font-size: 20px;
+}
+
+iframe {
+  padding: 5px;
+}
