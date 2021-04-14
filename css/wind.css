@@ -1,0 +1,20 @@
+nav {
+  background-color: transparent;
+  font-size: 45px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin: 0;
+  width: auto;
+}
+body {
+  background-image: url(https://images.unsplash.com/photo-1563297919-2997f933609c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1102&q=80);
+  background-size: cover;
+}
+p {
+  color: white;
+  padding: 0 5px;
+  font-size: 30px;
+}
+iframe {
+  padding: 5px;
+}
