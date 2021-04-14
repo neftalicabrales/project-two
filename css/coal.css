@@ -15,13 +15,6 @@ h1 {
   text-align: center;
   font-family: "Playfair Display", serif;
 }
-h2 {
-  color: white;
-  background-color: transparent;
-  font-size: 50px;
-  text-align: center;
-  font-family: "Playfair Display", serif;
-}
 .accordion {
   background-color: rgb(155, 13, 13);
   color: white;
