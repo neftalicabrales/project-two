@@ -1,0 +1,28 @@
+nav {
+  font-size: 47px;
+  color: rgb(255, 255, 255);
+  background: none;
+  text-align: center;
+  position: center;
+}
+h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 22px;
+  text-align: center;
+  padding: 25px;
+  color: rgb(255, 255, 255);
+}
+p {
+  font-family: "Playfair Display", serif;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+}
+
+body {
+  background-image: url(https://images.unsplash.com/photo-1521729839347-131a32f9abcb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80);
+  background-size: cover;
+  position: center;
+}
+a {
+  position: center;
+}
